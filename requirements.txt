@@ -1,0 +1,5 @@
+RPi.GPIO
+pyserial
+python-escpos
+# opencv + numpy installed via apt: python3-opencv, python3-numpy
+# mediapipe or ultralytics (optional, if space allows)
